@@ -1,3 +1,5 @@
+
+pip install allure-pytest
 # ------------ Запуск не на гриде------------
 # python -m pytest --alluredir allure-results   Запуск теста с аллюром
 # allure serve allure-results                   Отображение  отчета
